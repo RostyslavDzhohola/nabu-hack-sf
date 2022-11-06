@@ -1,11 +1,16 @@
 // API token for nft.storage. Please sign up and replace this with your own key from https://nft.storage/manage/
-export const NFT_STORAGE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDQxMjY5RGIwQjdjNzA3Y0I0MjZCMjg2MUI1NTY2ZEEwZTZjQzVmOTAiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTYyMjA2NTE1OTYxMCwibmFtZSI6Im5mdHNjaG9vbC10ZXN0In0.DSgQ5yot5Qyp4_OMg16h7hHOSRUQK7jkjiH7sM3DHOE";
+export const NFT_STORAGE_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDQzNDQ3MmMzNUYzMTM3ZTE3YjI1RGUxNzg1NjA3YjM3YWMyMzVmMEIiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY2NzY5MDQ0Mjg0OSwibmFtZSI6ImhhY2tTRiJ9.Ogz9sFqOT5QBu0GzclYdW96uAUULhEef5ZauoDcyKi0";
+
+// Pinata Submarine API Key and a Dedicated Gateway URL
+export const PINATA_SUBMARINE_API_KEY = "yuAOWQDwy150OAe1CiuHvsIjTySy13EM";
+export const PINATA_GATEWAY_URL = "https://boredelonunicornclub.mypinata.cloud";
 
 // Infura project ID. If you're building a real app based on this, please replace with your own from https://infura.io/dashboard/ethereum
-export const INFURA_ID = "69f75bb89ba74822b512b464ef1495c9";
+export const INFURA_ID = "3c37ba5f5ce44ad5bbcc65aac263c65f";
 
 // Key for Etherscan.io. If you're building a real app based on this, please replace with your own from https://etherscan.io/myapikey
-export const ETHERSCAN_KEY = "6EAGC2DEG6PP3M1GP1I86QJPQAUE4ESW1W";
+export const ETHERSCAN_KEY = "CFYVDD3XF4E8YW3I5WHTHP7AKT7J2V3WJ7";
 
 // BLOCKNATIVE ID FOR Notify.js:
 export const BLOCKNATIVE_DAPPID = "0b58206a-f3c0-4701-a62f-73c7243e8c77";
